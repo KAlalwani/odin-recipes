@@ -1,0 +1,9 @@
+.title {
+    text-align: center;
+}
+
+.home-page {
+    display: block;
+    margin: auto;
+    width: fit-content;
+}
